@@ -1,0 +1,13 @@
+h1
+{
+	font-size: 75px; color: red; text-align:center; background-color: blue;
+}
+body
+{
+	border: 10px solid blue;
+}
+
+img 
+{
+	margin-left: 500px; height: 200px; width: 300px; img-align: center;
+}
